@@ -1,0 +1,10 @@
+/home/simon/Documents/darknet/libdarknet.so
+/home/simon/Documents/darknet/include/darknet/darknet.h
+/home/simon/Documents/darknet/include/darknet/yolo_v2_class.hpp
+/home/simon/Documents/darknet/uselib
+/home/simon/Documents/darknet/darknet
+/home/simon/Documents/darknet/uselib_track
+/home/simon/Documents/darknet/share/darknet/DarknetTargets.cmake
+/home/simon/Documents/darknet/share/darknet/DarknetTargets-release.cmake
+/home/simon/Documents/darknet/share/darknet/DarknetConfig.cmake
+/home/simon/Documents/darknet/share/darknet/DarknetConfigVersion.cmake

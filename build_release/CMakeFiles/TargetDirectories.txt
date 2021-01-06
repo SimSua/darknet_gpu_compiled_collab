@@ -1,0 +1,10 @@
+/home/simon/Documents/darknet/build_release/CMakeFiles/install.dir
+/home/simon/Documents/darknet/build_release/CMakeFiles/list_install_components.dir
+/home/simon/Documents/darknet/build_release/CMakeFiles/rebuild_cache.dir
+/home/simon/Documents/darknet/build_release/CMakeFiles/edit_cache.dir
+/home/simon/Documents/darknet/build_release/CMakeFiles/install/local.dir
+/home/simon/Documents/darknet/build_release/CMakeFiles/darknet.dir
+/home/simon/Documents/darknet/build_release/CMakeFiles/install/strip.dir
+/home/simon/Documents/darknet/build_release/CMakeFiles/uselib.dir
+/home/simon/Documents/darknet/build_release/CMakeFiles/uselib_track.dir
+/home/simon/Documents/darknet/build_release/CMakeFiles/dark.dir
