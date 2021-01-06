@@ -2,4 +2,4 @@ classes = 44
 train = data/train_animals.txt
 valid = data/test_animals.txt
 names = data/animals.names
-backup = backup_animals/
+backup = backup/
